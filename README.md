@@ -1,3 +1,3 @@
 # PUPSMB BSIT 3-2
 
-This is my third repository
+This is my first repository
